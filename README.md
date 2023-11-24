@@ -92,7 +92,7 @@ top_100.to_csv ("top_1000_channels.csv" , index = false )
 Connection with MySQL Server
 We created a connection URL that specifies the database type, username, password, host, and the name of the database. We used the create_engine function to create a database engine, which will establish a connection to the specified MySQL database. The engine will allow you to interact with the database.
 
-###### Disclaimer ######
+ # Disclaimer
 
 We might get an issue while attempting the CSV file 
 Example ERROR: invalid start byte
