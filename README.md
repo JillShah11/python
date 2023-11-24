@@ -47,6 +47,7 @@ The below instructions will help with the project set up and running on your loc
   Open MySQL Workbench to verify that the MySQL server is running.
 
 **MYSQL Server**
+
 **STEP1:** Download SQL Server Installer:
 Visit the Microsoft SQL Server Downloads page.
 Click on "Download now" for the edition you want (e.g., SQL Server 2019 Express).
