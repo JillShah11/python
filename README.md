@@ -96,7 +96,9 @@ We created a connection URL that specifies the database type, username, password
  # Disclaimer
 
 We might get an issue while attempting the CSV file 
+
 Example ERROR: invalid start byte
+
 The solution to the above error: we will use (encoding='latin-1')
 
 
